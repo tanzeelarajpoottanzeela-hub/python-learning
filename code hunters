@@ -1,1 +1,7 @@
+age = 20
+total = 450
+student = "Aniit"
 
+_ok = 100
+
+print(_ok)
