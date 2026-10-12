@@ -1,12 +1,14 @@
-# hello.py
+birthday = 1000
 
-age = 18
+age = 25
+print(age + 10)
 
-if age >= 18:
-    print("You can an adult")
-    print("you can drive / vote")
-elif age < 18:
-    print("you can't vote or drive")
+name = "Rahul"
+age = 25
+height = 5.8
 
-print("end of code")
-          
+print(name, age, height)
+
+updated = age + 1
+print(updated)
+
