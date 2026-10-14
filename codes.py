@@ -1,5 +1,7 @@
+birthday = 1000
+age = 25
+name = "Rahul"
 
-name = "Ali"
-age = 20
-print("Mera naam", name)
-print("Meri age", age)
+print(birthday)
+print(age + 10)
+print(name)
