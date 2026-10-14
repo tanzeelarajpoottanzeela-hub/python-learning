@@ -1,3 +1,5 @@
-name = input("enter your name:")
-print("Hello,", name)
-print("Welcome to Python Learning!")
+print("Age before update:", age)
+
+updated = age + 1
+
+print(updated)
